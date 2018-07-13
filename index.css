@@ -1,0 +1,48 @@
+h1{
+  text-align:center;
+  position:relative;
+  position: absolute;
+  left: 0;
+  top: 10%;
+  width: 100%;
+  font-size: 120px;
+  text-shadow: 2px 2px 4px #000000;
+  font-family:'Amita';
+  color: white;
+}
+body{
+  background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Download-Free-Aesthetic-HD-Images-PIC-WPC0014083.jpg");
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-size: 35px;
+  font-family: 'Antic';
+}
+li{
+	float: left;
+	position:relative;left: 310px;
+	position:relative;top: 300px;
+}
+li a:link, li a:visited{
+
+	width: 200px;
+	padding: 14px;
+	margin: 1px;
+	background-color: #d9b3ff;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	position:relative;top:100px;
+}
+
+li a:hover {
+	background-color: #ccb3ff;
+	color: #ffffff;
+}
+
+li a:active {
+	background-color: #6c5b7b;
+	color: #fff;
+}
