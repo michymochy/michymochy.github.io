@@ -1,0 +1,71 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.bg {
+  background-image: url("purplebeach.jpg");
+   height: 100%;
+   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-size: 20px;
+  font-family: 'Antic';
+}
+li{
+	float: left;
+	position:relative;left:0px;
+	position:relative;top:-90px;
+}
+li a:link, li a:visited{
+
+	width: 200px;
+	padding: 10px;
+	margin: 1px;
+	background-color: #8585e0;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	position:relative;top:100px;
+}
+
+li a:hover {
+	background-color: #ccb3ff;
+	color: #ffffff;
+}
+
+li a:active {
+	background-color: #6c5b7b;
+	color: #fff;
+}
+h1{
+  text-align:center;
+  position:relative;
+  position: absolute;
+  left: 0;
+  top: 0%;
+  width: 100%;
+  font-size: 90px;
+  text-shadow: 2px 2px 4px #000000;
+  font-family:'Amita';
+  color: white;
+}
+p{
+  text-align:center;
+  position:relative;
+  position: absolute;
+  left: 0;
+  top: 30%;
+  width: 100%;
+  font-size: 45px;
+  text-shadow: 2px 2px 4px #000000;
+  font-family:'Barlow';
+  color: white;
+}
+img{
+
+}

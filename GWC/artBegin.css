@@ -1,0 +1,66 @@
+body{margin:25px;}
+body{
+  background-image: url("http://www.solidbackgrounds.com/images/2560x1440/2560x1440-cream-solid-color-background.jpg");
+
+}
+ul {
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-size: 35px;
+  font-family: 'Iceland';
+  text-align: center;
+}
+li{
+	float: left;
+	position:relative; left: 380px;
+}
+li a:link, li a:visited{
+
+	width: 200px;
+	padding: 14px;
+	margin: 1px;
+	background-color:#ffbb99;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+	/*position:relative;top:100px;*/
+}
+
+li a:hover {
+	background-color: #ffddcc;
+	color: #ffffff;
+}
+
+li a:active {
+	background-color: #ff8080;
+	color: #fff;
+}
+div.polaroid {
+  width: 80%;
+  background-color: #ffccb3;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+div.container {
+  text-align: center;
+  padding: 5px;
+}
+img{
+  margin-left: 250px;
+}
+p{
+  font-size: 30px;
+  text-shadow: 2px 2px 4px  #4d4d33;
+  font-family:'Iceland';
+  color: #ffbb99;
+}
+a:visited {
+    color: #ff9966;
+    background-color: transparent;
+    text-decoration: none;
+}
